@@ -70,5 +70,5 @@ In today's dynamic transportation landscape, managing highway tickets efficientl
 
 # API TESTING DOC
 
-    https://app.getpostman.com/join-team?invite_code=677874c71a1d38c2ad805b5ca5fd0fad&target_code=71c940d2e8d7ba400ec695bcd339f273
+    https://app.getpostman.com/join-team?invite_code=677874c71a1d38c2ad805b5ca5fd0fad&target_code=dddfef3ab6f14f37c73f69b1b44a9904
 
